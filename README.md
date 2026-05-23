@@ -1,4 +1,4 @@
-# Traffic Flow Intelligence & Urban Mobility Analysis
+## Traffic Flow Intelligence & Urban Mobility Analysis
 
 Comprehensive Exploratory Data Analysis (EDA) focused on uncovering spatial-temporal traffic patterns, congestion behavior, and urban mobility dynamics across multiple city junctions.
 
@@ -25,16 +25,6 @@ The city operates as a predictable, structured mobility system driven by economi
 
 ---
 
-## 📚 Research & Literature Context
-
-Empirical findings directly validate modern urban planning and transportation literature:
-
-*   **Socio-Economic Routines:** Rigid workplace and school schedules create predictable commuter cycles.
-*   **Geographic Density:** Central transportation corridors naturally absorb disproportionate systemic stress.
-*   **Infrastructure Design:** Complex junction structures collect traffic rather than distributing it evenly.
-
----
-
 ## 💼 Stakeholder Action Items
 
 ### City Authorities & Planners
@@ -53,15 +43,7 @@ Empirical findings directly validate modern urban planning and transportation li
 
 ## 🛠️ Tech Stack & Methodology
 
-### Tools & Libraries
-*   Python, Pandas, NumPy, Matplotlib, Seaborn
-
-### Analytical Pipeline
-1.  **Univariate Profiling:** Target variable (`Vehicles`) distribution and frequency counts of temporal features.
-2.  **Bivariate & Multivariate Mapping:** Cross-analyzing hours, weekdays, and seasons against specific junctions.
-3.  **Pattern Extraction:** Isolating bottleneck windows, growth trends, and spatial-temporal interactions.
-
----
+*  Python, Pandas, NumPy, Matplotlib, Seaborn
 
 ## 🏁 Final Conclusion
 
