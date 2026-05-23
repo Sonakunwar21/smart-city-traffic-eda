@@ -1,6 +1,10 @@
+<div align="center">
+
 ## Traffic Flow Intelligence & Urban Mobility Analysis
 
-Comprehensive Exploratory Data Analysis (EDA) focused on uncovering spatial-temporal traffic patterns, congestion behavior, and urban mobility dynamics across multiple city junctions.
+</div> 
+
+Comprehensive Exploratory Data Analysis focused on uncovering spatial-temporal traffic patterns, congestion behavior, and urban mobility dynamics across multiple city junctions.
 
 ---
 
