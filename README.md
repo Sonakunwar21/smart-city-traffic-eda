@@ -1,6 +1,6 @@
 <div align="center">
 
-## Traffic Flow Intelligence & Urban Mobility Analysis
+# Traffic Flow Intelligence & Urban Mobility Analysis
 
 </div> 
 
@@ -8,7 +8,7 @@ Comprehensive Exploratory Data Analysis focused on uncovering spatial-temporal t
 
 ---
 
-## 🚀 Key Findings & The Core Story
+## Key Findings & The Core Story
 
 The city operates as a predictable, structured mobility system driven by economic activity and centralized infrastructure.
 
