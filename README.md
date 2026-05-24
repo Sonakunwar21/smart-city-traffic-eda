@@ -1,6 +1,6 @@
 <div align="center">
 
-# Traffic Flow Intelligence & Urban Mobility Analysis
+# Traffic Flow & Urban Mobility Analysis
 
 </div> 
 
@@ -59,9 +59,8 @@ The network is entirely governed by clockwork human routines rather than random 
 
 ```text
 Traffic-EDA-Analysis/
-├── data/
-│   └── traffic.csv
-├── Traffic_Notebook/
+├── CSV_Notebook/
 │   └── Traffic_EDA.ipynb
+    └── traffic.csv
 ├── README.md
 └── .gitignore
